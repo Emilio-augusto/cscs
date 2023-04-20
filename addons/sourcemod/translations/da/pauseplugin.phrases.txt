@@ -1,0 +1,33 @@
+"Phrases"
+{
+  	"ForceTechPauseMessage"
+  	{
+    	"da"      		"En admin har tvungen en teknisk pause!"
+  	}
+
+  	"ForcePause"
+  	{
+    	"da"      		"En admin har tvungen en pause!"
+  	}
+
+  	"ForceUnpause"
+  	{
+    	"da"      		"En admin har tvungen en unpause!"
+  	}
+
+  	"TechPauseMessage"
+  	{
+    	"#format" 		"{1:N}"
+    	"da"      		"{1} har bedt om en teknisk pause."
+  	}
+
+	"TechUnpauseMessag"
+		"#format"		"{1:N}"
+		"da"			"{1} har afsluttet deres tekniske pause. Starter spillet!"
+
+  	"Pause"
+  	{
+    	"#format" "{1:N}"
+    	"da"      		"{1} har bedt om en pause."
+  	}
+}
